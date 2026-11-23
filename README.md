@@ -2,10 +2,6 @@
 
 **Computer Networks Project**
 
-**Team members**
-- B Kavin (24PD07)
-- Gomathi S (24PD12)
-
 ## 1. Project overview
 This project simulates a computer network and compares traditional routing with a machine-learning-assisted route selection approach. Each network link has four measurements:
 
